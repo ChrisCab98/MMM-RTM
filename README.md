@@ -10,8 +10,8 @@ Displays real time publics transports departure in Marseille (France)
   position: "top_left",
   config: {
     line : [
-      {"pointRef" : "00003493", "linePublicCode" : "M1", "pointName" :"La Fourragère"},
-      {"pointRef" : "00000933", "linePublicCode" : "9", "pointName" : "Caillols Provence"},
+      {"pointRef" : "00003493", "linePublicCode" : "M1"},
+      {"pointRef" : "00000933", "linePublicCode" : "9"},
     ]
   }
 },
